@@ -1,2 +1,6 @@
-Computer_Networking
+Computer_Networking (CS 6843)
 ===================
+Instructor: Professor [Rafail Portnoy](https://www.linkedin.com/in/portnoy)<br>
+Textbook: <i>[Computer Networking: A Top-Down Approach, 6/e](http://wps.pearsoned.com/ecs_kurose_compnetw_6/)</i> written by James F. Kurose, Keith W. Ross
+<br><br>
+This course takes a top-down approach to computer networking. After an overview of computer networks and the Internet, the course covers the application layer, transport layer, network layer and link layers. Topics at the application layer include client-server architectures, P2P architectures, DNS and HTTP and Web applications. Topics at the transport layer include multiplexing, connectionless transport and UDP, principles or reliable data transfer, connection-oriented transport and TCP and TCP congestion control. Topics at the network layer include forwarding, router architecture, the IP protocol and routing protocols including OSPF and BGP. Topics at the link layer include multiple-access protocols, ALOHA, CSMA/CD, Ethernet, CSMA/CA, wireless 802.11 networks and linklayer switches. The course includes simple quantitative delay and throughput modeling, socket programming and network application development and Ethereal labs.
